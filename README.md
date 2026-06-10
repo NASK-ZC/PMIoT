@@ -17,17 +17,17 @@ Start from here to prepare the testing environment before following the layer-sp
 
 ---
 
-### 2. Layer-Specific Pentesting Guides
+### 2. Layer-Specific Pentesting Procedures
 
 The following documents describe practical, step-by-step testing workflows for individual IoT system layers.
 
-#### **[IoT Radio Layer Pentesting Guide](IoT_Radio_Layer_Pentesting_Procedure.md)**
+#### **[IoT Radio Layer Pentesting Procedure](IoT_Radio_Layer_Pentesting_Procedure.md)**
 
-#### **[IoT IP Network Layer Pentesting Guide](IoT_IP_Network_Layer_Pentesting_Procedure.md)**
+#### **[IoT IP Network Layer Pentesting Procedure](IoT_IP_Network_Layer_Pentesting_Procedure.md)**
 
 #### **[IoT Web Application Layer Pentesting Procedure](IoT_Web_Application_Layer_Pentesting_Procedure.md)**
 
-#### **[IoT Mobile Application Layer Pentesting Guide](IoT_Mobile_Layer_Pentesting_Procedure.md)**
+#### **[IoT Mobile Application Layer Pentesting Procedure](IoT_Mobile_Layer_Pentesting_Procedure.md)**
 
 #### **[IoT Cloud Layer Pentesting Procedure](IoT_Cloud_Layer_Pentesting_Procedure.md)**
 
