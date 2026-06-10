@@ -9,7 +9,7 @@ The article describes the overall testing logic and cross-layer approach, while 
 
 ### 1. Preparation Phase
 
-**[Preparation Phase for IoT Penetration Testing](https://github.com/NASK-ZC/PMIoT/blob/main/Preparation_phase_file.md)**
+**[Preparation Phase for IoT Penetration Testing](Preparation_phase_file.md)**
 
 This document defines the preparation activities required before starting penetration testing of an IoT device. It describes the testing environment, required equipment, and software setup across all relevant layers.
 
@@ -21,21 +21,21 @@ Start from here to prepare the testing environment before following the layer-sp
 
 The following documents describe practical, step-by-step testing workflows for individual IoT system layers.
 
-#### **[IoT Radio Layer Pentesting Guide](https://github.com/NASK-ZC/PMIoT/blob/main/IoT_Radio_Layer_Pentesting_Procedure.md)**
+#### **[IoT Radio Layer Pentesting Guide](IoT_Radio_Layer_Pentesting_Procedure.md)**
 
-#### **[IoT IP Network Layer Pentesting Guide](https://github.com/NASK-ZC/PMIoT/blob/main/IoT_IP_Network_Layer_Pentesting_Procedure.md)**
+#### **[IoT IP Network Layer Pentesting Guide](IoT_IP_Network_Layer_Pentesting_Procedure.md)**
 
-#### **[IoT Web Application Layer Pentesting Procedure](https://github.com/NASK-ZC/PMIoT/blob/main/IoT_Web_Application_Layer_Pentesting_Procedure.md)**
+#### **[IoT Web Application Layer Pentesting Procedure](IoT_Web_Application_Layer_Pentesting_Procedure.md)**
 
-#### **[IoT Mobile Application Layer Pentesting Guide](https://github.com/NASK-ZC/PMIoT/blob/main/IoT_Mobile_Layer_Pentesting_Procedure.md)**
+#### **[IoT Mobile Application Layer Pentesting Guide](IoT_Mobile_Layer_Pentesting_Procedure.md)**
 
-#### **[IoT Cloud Layer Pentesting Procedure](https://github.com/NASK-ZC/PMIoT/blob/main/IoT_Cloud_Layer_Pentesting_Procedure.md)**
+#### **[IoT Cloud Layer Pentesting Procedure](IoT_Cloud_Layer_Pentesting_Procedure.md)**
 
 ---
 
 ### 3. Procedure Form and Reporting Template
 
-**[PMIoT Penetration Testing Procedure Form](https://github.com/NASK-ZC/PMIoT/blob/main/PMIoT_pentest_procedure_form.docx)**
+**[PMIoT Penetration Testing Procedure Form](PMIoT_pentest_procedure_form.docx)**
 
 This document provides a short procedure form and reporting template for conducting and documenting IoT penetration tests.
 
@@ -51,5 +51,5 @@ You can use this document as a starting point for applying the methodology and r
 ## Suggested Reading Order
 
 1. Read the article to understand the overall IoT security testing methodology and testing logic.
-2. Prepare the environment using **[Preparation Phase for IoT Penetration Testing](https://github.com/NASK-ZC/PMIoT/blob/main/Preparation_phase_file.md)**.
-3. Follow the relevant layer-specific guide depending on the scope of the test, you can use **[PMIoT Penetration Testing Procedure Form](https://github.com/NASK-ZC/PMIoT/blob/main/PMIoT_pentest_procedure_form.docx)** to track performed tests and summarize results.
+2. Prepare the environment using **[Preparation Phase for IoT Penetration Testing](Preparation_phase_file.md)**.
+3. Follow the relevant layer-specific guide depending on the scope of the test, you can use **[PMIoT Penetration Testing Procedure Form](PMIoT_pentest_procedure_form.docx)** to track performed tests and summarize results.
