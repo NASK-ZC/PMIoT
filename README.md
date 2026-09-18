@@ -48,8 +48,17 @@ It includes:
 
 You can use this document as a starting point for applying the methodology and recording test results in a structured format.
 
+### 4. Vulnerability Details
+
+**[Vulnerability Details](/Vulnerabilities_Details/)**
+
+This directory provides detailed documentation for described in article vulnerabilities **[CVE-2023-3612](/Vulnerabilities_Details/CVE-2023-3612.md)**, **[CVE-2023-4617](/Vulnerabilities_Details/CVE-2023-4617.md)** and **[CVE-2025-10910](/Vulnerabilities_Details/CVE-2025-10910.md)**.
+
+The documents include practical and explanatory materials, such as full vulnerability discovery stories, vulnerability descriptions, proof-of-concept (PoC) examples, insights, remediation considerations, comments and references to the relevant layers and testing procedures introduced in the paper.
+
 ## Suggested Reading Order
 
 1. Read the article to understand the overall IoT security testing methodology and testing logic.
-2. Prepare the environment using **[Preparation Phase for IoT Penetration Testing](Preparation_phase_file.md)**.
-3. Follow the relevant layer-specific guide depending on the scope of the test, you can use **[PMIoT Penetration Testing Procedure Form](PMIoT_pentest_procedure_form.docx)** to track performed tests and summarize results.
+2. Read the **[Vulnerability Details](/Vulnerabilities_Details/)** to see practical examples of identified vulnerabilities, PoCs, remediation considerations, and how the proposed methodology and layer-specific procedures were applied in real testing scenarios.
+3. Prepare the environment using **[Preparation Phase for IoT Penetration Testing](Preparation_phase_file.md)**.
+4. Follow the relevant layer-specific guide depending on the scope of the test, you can use **[PMIoT Penetration Testing Procedure Form](PMIoT_pentest_procedure_form.docx)** to track performed tests and summarize results.
